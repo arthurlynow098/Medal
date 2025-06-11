@@ -1,1 +1,1 @@
-# Medal!
+# Medal
